@@ -13,7 +13,7 @@ $headers[] = 'X-Location: -6.405821,106.064193';
 // Menu
 echo "\n=======================\n";
 echo "      GOSEX\n";
-echo "    By : Inugers Tampan\n";
+echo "    By : Inugers\n";
 echo "   Support: Begal Promo\n";
 echo "=======================\n";
 echo "1. Register (Akun Baru)\n";
